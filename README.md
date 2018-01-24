@@ -4,9 +4,9 @@
 
 <h2>LICENSE</h2>
 
-GNU GENERAL PUBLIC LICENSE
-Version 3, 29 June 2007
-https://www.gnu.org/licenses/gpl.html
+<p>GNU GENERAL PUBLIC LICENSE</p>
+<p>Version 3, 29 June 2007</p>
+<p><a href="https://www.gnu.org/licenses/gpl.html">https://www.gnu.org/licenses/gpl.html</p>
 
 Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
 Everyone is permitted to copy and distribute verbatim copies
