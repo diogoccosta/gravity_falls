@@ -1,6 +1,6 @@
 # Gravity Falls CriptoTools
 <h1>README</h1>
-Updated for Hacktoberfest...
+Updated for Hacktoberfest.
 
 
 <h2>LICENSE</h2>
