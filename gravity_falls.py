@@ -8,7 +8,7 @@ __license__ = "GPL"
 __version__ = "0.0.1"
 __maintainer__ = "Diogo Carvalho"
 __email__ = "diogoccosta@icloud.com"
-__status__ = "Test"
+__status__ = "Test - Updated during Hacktoberfest"
 
 def getMode():
     while True:
